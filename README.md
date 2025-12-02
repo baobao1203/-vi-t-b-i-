@@ -84,5 +84,5 @@ Muốn 2 bánh đĩa xích:
 → Cùng các bước trên, nhưng chọn “Component = Chain Sprocket”, chọn bước xích 15.875 mm (5/8" – xích xe máy phổ biến), số răng 14 và 42 chẳng hạn → OK → có ngay bộ truyền xích.
 
 Nếu bạn cần mình gửi file .ipt + .iam mẫu (20–60 răng, modul 2) hoặc bộ truyền xích 14–42 (xích 428) thì cứ nói, mình gửi liền nhé!
+<img width="1122" height="712" alt="image" src="https://github.com/user-attachments/assets/96a44262-94f4-48b5-b92f-4f61afb516f8" />
 
-Chúc bạn vẽ bánh răng thành công! 🚀
